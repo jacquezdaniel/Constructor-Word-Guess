@@ -3,6 +3,6 @@
   "version": "",
   "dependencies": {
     "cli-color": "^1.4.0",
-    "inquirer": "^6.2.1"
+    "inquirer": "^7.0.4"
   }
 }
